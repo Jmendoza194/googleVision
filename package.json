@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@google-cloud/storage": "^2.4.1",
     "@google-cloud/vision": "^0.24.0",
     "axios": "^0.18.0",
+    "googleapis": "^37.1.0",
     "react": "^16.7.0",
+    "react-cloud-vision-api": "^0.3.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
